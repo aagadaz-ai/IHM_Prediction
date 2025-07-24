@@ -1,0 +1,7 @@
+streamlit
+pandas
+numpy
+scikit-learn          
+joblib
+openpyxl               
+tensorflow==2.15.0     
